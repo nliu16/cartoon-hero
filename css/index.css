@@ -1,0 +1,6 @@
+
+.mainimage {
+	width: 50%;
+	height: 600px;
+	background-image: url(img/flair.png) no-repeat center / cover;
+}
